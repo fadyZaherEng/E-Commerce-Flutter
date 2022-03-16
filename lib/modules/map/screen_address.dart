@@ -8,8 +8,6 @@ import 'package:flutter_technical_task/layout/home_provider.dart';
 import 'package:flutter_technical_task/shared/components/components.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:place_picker/entities/entities.dart';
-import 'package:place_picker/place_picker.dart';
 import 'package:provider/provider.dart';
 import 'package:geocoding/geocoding.dart';
 
